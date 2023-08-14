@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Alif Fatullah**.\
+Allow me to introduce myself my name is **Alif Fatullah**
 
 - 🔭 I’m currently study on Business Administration focus on Digital Business in President University
 - 🌱 I’m currently learning on Machine Learning in [Bangkit Academy 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) x [Dicoding](https://www.dicoding.com)
